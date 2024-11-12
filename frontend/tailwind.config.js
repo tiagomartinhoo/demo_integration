@@ -6,7 +6,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "bluez": "#92b8db",
+        "bluez": "#92b8dbDD",
+        "pinkz": "#d252b1DD"
       },
     },
   },
