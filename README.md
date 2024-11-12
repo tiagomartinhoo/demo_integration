@@ -1,5 +1,9 @@
 # 🚀 Formação de Integração @ In-Nova
 
+<img src="https://github.com/user-attachments/assets/5ee73b70-4527-417d-bf15-edbb2ba7e376" height="250px"/>
+
+----
+
 **Descrição:**  
 Esta formação tem como objetivo aprofundar os conhecimentos na integração entre frontend e backend, explorando metodologias que facilitam a comunicação entre as camadas de uma aplicação. Com foco em boas práticas, os participantes aprenderão a configurar e estruturar uma aplicação que utiliza tecnologias modernas, garantindo um fluxo de dados eficiente e seguro.
 
